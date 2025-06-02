@@ -77,8 +77,7 @@ python main.py
   - OpenAI API: Requires paid subscription and API keys, making it inaccessible for free/open-source usage
   - Google Gemini: Also requires API keys and has usage costs
   - Open Source LLMs:
-    - Local models (like distilbart-cnn) had insufficient performance for consistent content analysis
-    - Inconsistent output formatting and reliability issues
+    - Local models (like distilbart-cnn) had Inconsistent output formatting and reliability issues
     - High computational requirements for quality analysis
 - Solution:
   - Implemented rule-based analysis using established libraries (textstat, language-tool-python)
