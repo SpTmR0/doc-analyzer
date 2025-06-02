@@ -1,0 +1,61 @@
+URL: https://help.moengage.com/hc/en-us/articles/32664799340564-Artificial-Intelligence-Resolution-Agent-AIRA#h_01JE5NWE0GK8WBQX2EEFTSRCJ4
+Extracted on: 2025-06-03 02:38:43
+==================================================
+
+This section provides step-by-step instructions for using the Artificial Intelligence Resolution Agent (AIRA) from the MoEngage dashboard.
+What is AIRA?
+link
+AIRA is MoEngage's generative AI-enabled support bot. It addresses your queries by referencing an extensive knowledge base and utilizing custom workflows. It ensures prompt and accurate responses and can escalate complex issues by creating support tickets. AIRA is available 24/7.
+AIRA Capabilities
+link
+Early Access
+This is an Early Access feature. To enable it for your account, contact your CSM or
+raise a support ticket
+.
+The following are the current capabilities of AIRA:
+Respond to troubleshooting queries regarding Push notifications.
+Address 'how-to' queries from the knowledge base.
+info
+Information
+The file upload feature is currently being developed. To share files, use the email thread associated with the ticket logged through AIRA.
+Access AIRA on the Dashboard
+link
+To access AIRA:
+In the upper-right corner of the MoEngage dashboard, click
+Need help
+.
+From the drop-down list, click
+Support
+.
+The AIRA message window will appear.
+Log a Ticket Using AIRA
+link
+To log a ticket:
+In the AIRA message window, type your query or describe the issue.
+Follow the on-screen instructions. AIRA will attempt to resolve your query and may request additional details.
+If the response is insufficient or your issue remains unresolved, select
+Get more help
+or
+No, log a ticket
+depending on the option displayed in AIRA's dialogue to create a support ticket.
+When you create a ticket, you will receive:
+A confirmation in the chat window with a ticket number
+An email containing all follow-up communications regarding the ticket
+info
+Information
+The ticket includes all conversation history, allowing Support Engineers to access the context. Follow-up communications regarding the support ticket created through AIRA will be sent through email and available in your inbox.
+View Tickets Created by AIRA
+link
+To view your tickets:
+In the upper-right corner of the MoEngage dashboard, click
+Need help
+.
+From the drop-down list, click
+My tickets
+.
+The
+My activities
+page appears, displaying your previously logged tickets.
+info
+Information
+MoEngage is updating its support process and transitioning from a web form to our new AIRA support bot. This advanced tool allows you to submit queries and create tickets, offering a smooth and expedited experience. AIRA is under progressive development and is accessed by a limited number of users. However, MoEngage is excited to announce that it will soon be fully available, replacing the current web form.

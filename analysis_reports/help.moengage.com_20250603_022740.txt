@@ -1,0 +1,22 @@
+URL: https://help.moengage.com/hc/en-us/articles/24263408623892-Deprecation-of-Email-Support
+Extracted on: 2025-06-03 02:27:40
+==================================================
+
+At MoEngage, we are committed to continuous improvement, working tirelessly to provide you with exceptional service and a better customer experience. As part of this resolve, we are excited to announce a significant step to enhance our support system - a shift from email support to an organized and efficient web portal ticketing system. A simple and efficient way to contact our Support team from within your MoEngage Dashboard.
+Starting April 2024, we will be phasing out email support via support@moengage.com and transitioning towards a web portal ticketing system.
+The emails sent to this address will no longer be monitored post 29th April 2024
+. This strategic change is aimed at improving the way we offer support, enabling us to serve you better and faster.
+Why make the switch to our Support Web Form?
+Supporting customers through a customer support portal is a universal best practice, here are some benefits.
+Faster Response Times:
+Using our Support Web form, your query instantly arrives at the desk of the right support engineer. This automated sorting and routing means your queries get addressed faster, considerably reducing wait times.
+Improved SLA Adherence:
+We like delivering resolutions while strictly adhering to SLAs. With this, your tickets will be mapped promptly with the appropriate SLAs that your ticket demands.
+Direct and Improved Communication:
+Expect more effective and focused communication from our support team. You'll receive automated updates as soon as your ticket is received and when a resolution is reached, helping maintain transparency throughout the process.
+Better Tracking:
+The web form ensures comprehensive tracking of all your support queries in one place. This integration allows us to understand your needs better and make informed decisions to enhance our products and services.
+We're excited about this transition and believe it will significantly improve the support experience for all our customers. We appreciate your understanding and cooperation during this transition. Detailed instructions on how to use the new Support Web Form are given here:
+Using the Support Web Form
+Please don't hesitate to contact us if you have any questions.
+Thank you for your continued support and for being an integral part of the MoEngage family.

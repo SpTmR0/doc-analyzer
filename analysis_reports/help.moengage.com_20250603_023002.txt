@@ -1,0 +1,119 @@
+URL: https://help.moengage.com/hc/en-us/articles/4402656152468-Support-Issue-Types-and-Priority#h_01HHBF76GEKYKT96Z25SYYHZSC
+Extracted on: 2025-06-03 02:30:02
+==================================================
+
+MoEngage provides 24/7 support to customers worldwide. The MoEngage Support team is eager to assist you. To better serve you, we prioritize support tickets by their type and the tier of the customer's pricing plan.
+Quick Assistance
+link
+Our help center is well-stocked with articles aimed to help you navigate our product and answer commonly asked questions. Click
+here
+to search for your topic of interest. For quick responses, refer to FAQs found in the help center menu's lower-left corner. For technical integration-related inquiries, refer to the following resources:
+Android SDK FAQs
+iOS SDK FAQs
+Web SDK FAQs
+Our growth academy tutorials,
+MoEngage Growth Marketing Expert
+and
+MoEngage Analytics Expert
+, are structured to familiarize you with our product features. We suggest exploring these resources for product-related questions.
+For specific product inquiries, use cases, or 'how-to' questions, and if a 'Customer Success Manager' (CSM) is assigned to your account, consider sending them an email directly. We prioritize technical issues within our support team over product questions that our help center articles might already cover. Therefore, we advise you to reach out to your CSM or refer to our Growth Academy Tutorials before submitting a support ticket.
+Support Matrix: Issue Types and Priorities
+link
+Category-Sub Category
+Type of Issue
+Priority
+Login/Sign-up
+Unable to login or access the MoEngage Dashboard (issue with Google, Single Sign On, or Two-factor authentication )
+Urgent
+Team members are unable to log in
+High
+All Campaigns (Push, SMS, Email, In-App, Onsite Messaging, Cards, Whatsapp, FB, GA Audience, Connector)
+Unable to create or publish a campaign
+Urgent
+Facing errors in the campaign
+Urgent
+Unable to pause/stop a Campaign
+High
+Facing issues in campaign stats
+Normal
+Queries regarding Impressions count mismatch
+Normal
+Facing rendering issues in campaign images or icons
+Normal
+Campaign Personalization/ Recommendations /Jinja queries
+Facing issues in Personalization, Personalized preview
+Normal
+Queries regarding Jinja use cases or Jinja-related issues
+Low
+Queries regarding Recommendations related usecases or issues
+Low
+Flows
+Unable to create a Flow
+Urgent
+Facing issues with user entry in Flows
+High
+Inform
+Facing delays in sending Alerts
+Urgent
+Facing issues in Alert Testing
+Normal
+Facing issues in campaign stats
+Normal
+SMS
+Queries regarding delivery callbacks or URL shortening
+Normal
+Unable to configure Custom Domain
+Normal
+Email
+Support for Email warmup plans
+Normal
+Support for resubscribing or unsubscribing users
+Low
+WhatsApp
+Support for WhatsApp and Vendor setup
+Normal
+FB/ Google campaigns
+Unable to add or delete an audience
+Normal
+Connector campaigns
+Unable to configure the connector
+Normal
+Segmentation
+Unable to view segmentation
+Urgent
+Facing issues in segmentation queries
+High
+Unable to import users, events, or file segments
+High
+Queries regarding segmentation count mismatch
+Normal
+Other segmentation queries (value suggestion, RFM, Affinity segments, and so on)
+Normal
+Data
+Facing issues in ingesting data through S2S API or SDK
+Urgent
+Facing issues in user creation from data imports, delay in user imports, or event ingestion
+Normal
+Unable to find users or events in custom segments
+Normal
+Facing issues with encryption
+Low
+Dashboard Settings
+Facing issues in creating custom roles, editing permissions
+Normal
+Facing issues in setting or changing the app timezone, conversion goal, API, user attributes, and so on.
+Normal
+Push (Android/ IOS SDK integration), SMS and Connectors, Email, Cards, WhatsApp, Preference management, Delivery controls
+Normal
+Priority-Based Response Time
+link
+Priority
+Initial Response time
+Urgent
+within 1 hour
+High
+within 3 hours
+Normal
+within 5 hours
+Low
+within 1 business day

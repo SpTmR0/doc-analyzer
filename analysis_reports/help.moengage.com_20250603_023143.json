@@ -1,0 +1,49 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/12592564915604-Overview-Personalize#h_01HE2MF8B0R57PCHB319DW98V7",
+  "readability": {
+    "flesch_reading_ease": 24.385444444444488,
+    "gunning_fog_index": 18.38888888888889,
+    "feedback": [
+      "Flesch score suggests content may be complex.",
+      "Gunning Fog Index = 18.39, which means it's suitable for college-level readers."
+    ]
+  },
+  "structure": {
+    "heading_count": 9,
+    "long_paragraphs": 1,
+    "list_count": 202,
+    "link_count": 679,
+    "skipped_heading_levels": true,
+    "suggestions": [
+      "Split long paragraphs for better readability.",
+      "Avoid skipping heading levels (e.g., h1 to h3 directly)."
+    ]
+  },
+  "completeness": {
+    "has_examples": true,
+    "feedback": "Sufficient examples present."
+  },
+  "style_guide": {
+    "grammar_issues_found": 2,
+    "sample_issues": [
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "Overview link MoEngage Personalize helps create connected expe..."
+      },
+      {
+        "message": "This sentence does not start with an uppercase letter.",
+        "suggestion": [
+          "Link"
+        ],
+        "context": "...ccelerate conversions for your product. link You can personalize every component of ..."
+      }
+    ],
+    "microsoft_style_guide_violations": [
+      "Possible title-case used instead of sentence case: 'Use Cases'",
+      "Avoid exclamation marks in formal writing."
+    ]
+  }
+}

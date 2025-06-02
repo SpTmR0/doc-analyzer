@@ -1,0 +1,65 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/24263408623892-Deprecation-of-Email-Support",
+  "readability": {
+    "flesch_reading_ease": 43.00417602996254,
+    "gunning_fog_index": 13.073087212413055,
+    "feedback": [
+      "Flesch score suggests content may be complex.",
+      "Gunning Fog Index = 13.07, which means it's suitable for college-level readers."
+    ]
+  },
+  "structure": {
+    "heading_count": 5,
+    "long_paragraphs": 1,
+    "list_count": 188,
+    "link_count": 677,
+    "skipped_heading_levels": true,
+    "suggestions": [
+      "Split long paragraphs for better readability.",
+      "Avoid skipping heading levels (e.g., h1 to h3 directly)."
+    ]
+  },
+  "completeness": {
+    "has_examples": false,
+    "feedback": "Add examples for better understanding."
+  },
+  "style_guide": {
+    "grammar_issues_found": 4,
+    "sample_issues": [
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "At MoEngage, we are committed to continuous improve..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "...ntact our Support team from within your MoEngage Dashboard. Starting April 2024, we will..."
+      },
+      {
+        "message": "Don’t put a space before the full stop.",
+        "suggestion": [
+          "."
+        ],
+        "context": "...longer be monitored post 29th April 2024 . This strategic change is aimed at impro..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "...t and for being an integral part of the MoEngage family."
+      }
+    ],
+    "microsoft_style_guide_violations": [
+      "Possible passive voice usage: 'will be'",
+      "Possible title-case used instead of sentence case: 'Faster Response Times:'",
+      "Possible title-case used instead of sentence case: 'Improved SLA Adherence:'",
+      "Possible title-case used instead of sentence case: 'Better Tracking:'"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/4402656152468-Support-Issue-Types-and-Priority#h_01HHBF76GEKYKT96Z25SYYHZSC",
+  "readability": {
+    "flesch_reading_ease": 1.9771616618675694,
+    "gunning_fog_index": 25.17597696421226,
+    "feedback": [
+      "Flesch score suggests content may be complex.",
+      "Gunning Fog Index = 25.18, which means it's suitable for college-level readers."
+    ]
+  },
+  "structure": {
+    "heading_count": 8,
+    "long_paragraphs": 1,
+    "list_count": 189,
+    "link_count": 685,
+    "skipped_heading_levels": false,
+    "suggestions": [
+      "Split long paragraphs for better readability."
+    ]
+  },
+  "completeness": {
+    "has_examples": false,
+    "feedback": "Add examples for better understanding."
+  },
+  "style_guide": {
+    "grammar_issues_found": 11,
+    "sample_issues": [
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "MoEngage provides 24/7 support to customers worl..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "...4/7 support to customers worldwide. The MoEngage Support team is eager to assist you. To..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "... SDK FAQs Our growth academy tutorials, MoEngage Growth Marketing Expert and MoEngage An..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "...s, MoEngage Growth Marketing Expert and MoEngage Analytics Expert , are structured to fa..."
+      },
+      {
+        "message": "Put a space after the comma, but not before the comma.",
+        "suggestion": [
+          ","
+        ],
+        "context": "...ing Expert and MoEngage Analytics Expert , are structured to familiarize you with ..."
+      }
+    ],
+    "microsoft_style_guide_violations": [
+      "Use simpler alternative for 'assist' → 'help'",
+      "Possible title-case used instead of sentence case: 'Quick Assistance'",
+      "Possible title-case used instead of sentence case: 'Android SDK FAQs'",
+      "Possible title-case used instead of sentence case: 'Web SDK FAQs'",
+      "Possible title-case used instead of sentence case: 'MoEngage Growth Marketing Expert'",
+      "Possible title-case used instead of sentence case: 'MoEngage Analytics Expert'",
+      "Possible title-case used instead of sentence case: 'Support Matrix: Issue Types and Priorities'",
+      "Possible title-case used instead of sentence case: 'Category-Sub Category'",
+      "Possible title-case used instead of sentence case: 'Campaign Personalization/ Recommendations /Jinja queries'",
+      "Possible title-case used instead of sentence case: 'Dashboard Settings'",
+      "Possible title-case used instead of sentence case: 'Priority-Based Response Time'"
+    ]
+  }
+}

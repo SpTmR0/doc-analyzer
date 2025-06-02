@@ -1,0 +1,35 @@
+URL: https://help.moengage.com/hc/en-us/articles/12592564915604-Overview-Personalize#h_01HE2MF8B0R57PCHB319DW98V7
+Extracted on: 2025-06-03 02:31:43
+==================================================
+
+Overview
+link
+MoEngage Personalize helps create connected experiences that bridge the gap between your user's needs and the product experience. These real-time connected experiences help accelerate conversions for your product.
+link
+You can personalize every component of your website at speed and scale. These could range from personalized offers and product recommendations based on the audience’s past behavior and preferences data, and you can do the same for even first-time unknown visitors!
+Advantages of Personalize
+link
+Maximize conversions by delighting every visitor with experiences tailored to their preferences.
+Product recommendations that boost Average Order Value (AOV)
+Add in-the-moment context
+A/B testing at scale
+In-depth analytics
+Personalize for unknown visitors
+Use Cases
+link
+Retail and E-commerce
+Personalize messaging, content, product recommendations, and website banners based on the visitors’ location and language preferences
+Launch region-specific sales discounts and offers
+Banking and Finance
+Show personalized home loan offers, content, and other recommended offers such as loans and product recommendations.
+Create tailor-made omnichannel campaigns based on traffic sources and pages viewed. For example, when a visitor clicks on a Facebook ad about credit card offers, you can show them the same offer on your website and send them a personalized email to nudge them to purchase.
+Returning visitors can be shown promotional offers on the home page designed specifically for them. For instance, if a visitor fills out a loan calculator on a bank’s website but does not apply for a loan, you can show a personalized banner based on variables entered in the calculator to nudge them to apply for the loan.
+Media and Entertainment
+Personalize website banners showing subscription upgrade offers for subscribers in a specific location.
+Show content recommendations based on the visitors’ past listening history, complementary products, or the most popular category.
+Show different website banners with customized offers—based on the subscription plan for premium and lower-tier subscribers.
+Customize website layouts such as Call-to-Action (CTA) buttons to show recommended shows and banners using the visual no-code editor.
+Travel and Hospitality
+Dynamically restructure page layouts or swap website banners based on intent, most-viewed flights or hotels or travel destinations, preferences, and segments.
+Convert a known or unknown visitor to a customer by dynamically swapping your website banners based on real-time activity.
+Change home-page banners for visitors based on their segment profile and affinity. For example, you can show budget travel destinations to budget travelers and luxury travel packages to premium customers.

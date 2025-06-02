@@ -1,0 +1,146 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/32664799340564-Artificial-Intelligence-Resolution-Agent-AIRA#h_01JE5NWE0GK8WBQX2EEFTSRCJ4",
+  "readability": {
+    "flesch_reading_ease": 45.58041044776124,
+    "gunning_fog_index": 12.409523809523812,
+    "feedback": [
+      "Flesch score suggests content may be complex.",
+      "Gunning Fog Index = 12.41, which means it's suitable for college-level readers."
+    ]
+  },
+  "structure": {
+    "heading_count": 10,
+    "long_paragraphs": 1,
+    "list_count": 192,
+    "link_count": 682,
+    "skipped_heading_levels": false,
+    "suggestions": [
+      "Split long paragraphs for better readability."
+    ]
+  },
+  "completeness": {
+    "has_examples": false,
+    "feedback": "Add examples for better understanding."
+  },
+  "style_guide": {
+    "grammar_issues_found": 33,
+    "sample_issues": [
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "AIR",
+          "IRA",
+          "AIRS",
+          "AURA",
+          "AIA",
+          "AGRA",
+          "MIRA",
+          "LIRA",
+          "AIDA",
+          "ARA",
+          "KIRA",
+          "AIRY",
+          "NAIRA",
+          "AIAA",
+          "AIEA",
+          "AIRFA",
+          "AITA",
+          "APRA",
+          "ARIA",
+          "AKIRA",
+          "AMIRA",
+          "EIRA",
+          "JIRA",
+          "A IRA",
+          "AI RA",
+          "AIR A"
+        ],
+        "context": "...tificial Intelligence Resolution Agent (AIRA) from the MoEngage dashboard. What is A..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "Mo Engage"
+        ],
+        "context": "...igence Resolution Agent (AIRA) from the MoEngage dashboard. What is AIRA? link AIRA is M..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "AIR",
+          "IRA",
+          "AIRS",
+          "AURA",
+          "AIA",
+          "AGRA",
+          "MIRA",
+          "LIRA",
+          "AIDA",
+          "ARA",
+          "KIRA",
+          "AIRY",
+          "NAIRA",
+          "AIAA",
+          "AIEA",
+          "AIRFA",
+          "AITA",
+          "APRA",
+          "ARIA",
+          "AKIRA",
+          "AMIRA",
+          "EIRA",
+          "JIRA",
+          "A IRA",
+          "AI RA",
+          "AIR A"
+        ],
+        "context": "...A) from the MoEngage dashboard. What is AIRA? link AIRA is MoEngage's generative AI-..."
+      },
+      {
+        "message": "This sentence does not start with an uppercase letter.",
+        "suggestion": [
+          "Link"
+        ],
+        "context": "...m the MoEngage dashboard. What is AIRA? link AIRA is MoEngage's generative AI-enable..."
+      },
+      {
+        "message": "Possible spelling mistake found.",
+        "suggestion": [
+          "AIR",
+          "IRA",
+          "AIRS",
+          "AURA",
+          "AIA",
+          "AGRA",
+          "MIRA",
+          "LIRA",
+          "AIDA",
+          "ARA",
+          "KIRA",
+          "AIRY",
+          "NAIRA",
+          "AIAA",
+          "AIEA",
+          "AIRFA",
+          "AITA",
+          "APRA",
+          "ARIA",
+          "AKIRA",
+          "AMIRA",
+          "EIRA",
+          "JIRA",
+          "A IRA",
+          "AI RA",
+          "AIR A"
+        ],
+        "context": "... MoEngage dashboard. What is AIRA? link AIRA is MoEngage's generative AI-enabled sup..."
+      }
+    ],
+    "microsoft_style_guide_violations": [
+      "Possible passive voice usage: 'will be'",
+      "Possible title-case used instead of sentence case: 'AIRA Capabilities'",
+      "Possible title-case used instead of sentence case: 'Early Access'",
+      "Possible title-case used instead of sentence case: 'View Tickets Created by AIRA'"
+    ]
+  }
+}
